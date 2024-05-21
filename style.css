@@ -1,0 +1,20 @@
+/* CENTER WEBSITE */
+body {
+    max-width: 1080px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav a {
+    float: left;
+    padding: 8px 10px;
+}
+
+.nav-right {
+    float: right;
+}
+
+header h1 {
+    text-align: center;
+    float: inherit;
+}
